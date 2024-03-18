@@ -5,7 +5,6 @@ local blips = {
   }
       
 Citizen.CreateThread(function()
-
     for _, info in pairs(blips) do
       info.blip = AddBlipForCoord(info.x, info.y, info.z)
       SetBlipSprite(info.blip, info.id)
