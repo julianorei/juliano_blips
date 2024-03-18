@@ -15,7 +15,7 @@
 2. Modify the blips in the blips.lua file within the script.
 3. Start or restart your server!
 
-# Attention!:
+# Attention:
 - The script works on any framework!
 
 # Support Contact Information:
