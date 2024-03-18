@@ -1,8 +1,7 @@
 local blips = {
     -- Example {title="", colour=, id=, x=, y=, z=},
-    
+	
      {title="EXAMPLE", colour=30, id=310, x = -204.5260, y = -1304.7933, z = 31.3395},
-
   }
       
 Citizen.CreateThread(function()
